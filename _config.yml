@@ -13,7 +13,7 @@ title                    : "A. Daniel Carnerero / Personal Webpage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "description"
-url                      : https://carnererodaniel.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://carnererodaniel.github.io/webpage/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # URL
 
