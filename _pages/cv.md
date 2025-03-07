@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* 2019-2022: Teaching Assistant
+* September, 2019- November, 2022: Teaching Assistant
   * University of Seville
 
-* 2023-2024: Postdoc
+* January, 2023- May, 2024: Postdoc
   * Tokyo Institute of Technology
 
-* 2024-Present: Assistant Professor
+* June, 2024-Present: Assistant Professor
   * The University of Osaka
 
 Publications
