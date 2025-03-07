@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Automatic Control"
+title: "Fundaments of Automatic Control"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Teaching5
