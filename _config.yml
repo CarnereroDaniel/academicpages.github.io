@@ -22,7 +22,7 @@ repository               : # URL
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto_web.jpg"
   name             : "A. Daniel Carnerero"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor. Graduate School of Engineering Science, Sakurama Laboratory."
