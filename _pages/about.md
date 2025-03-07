@@ -25,6 +25,6 @@ Currently, I am working with [Professor Sakurama](https://sites.google.com/view/
 
 About me
 ======
-This is completely useless information and maybe it should not even be here, but I felt that the page was too empty so I decided to write something even though the probability that I will regret this later is extremely high. 
+This is completely useless information and maybe it should not be here, but I felt that the page was too empty so I decided to write something even though the probability that I will regret this later is extremely high. 
 I came to Japan in 2023 for a postdoc and haven't left since then (with the exception of occasional visits to my family and the participation of international conferences). I can speak Spanish, English and Japanese (sometimes I feel like I cannot speak none of them though).
 I like playing fighting games (mostly UNI and MB), cooking (generally Spanish or Japanese food), playing the drums (pop/EDM/rock/metal) and watching anime.
