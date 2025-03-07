@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Personal Webpage"
+title                    : "Front page"
 title_separator          : "-"
 name                     : &name "A. Daniel Carnerero"
 description              : &description "Personal webpage"
@@ -23,7 +23,7 @@ repository               : # URL
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "A. Daniel Carnerero"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor. Graduate School of Engineering Science, Sakurama Laboratory."
   location         : "Osaka, Japan"
