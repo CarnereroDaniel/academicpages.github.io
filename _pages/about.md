@@ -16,6 +16,7 @@ My main research interests are the following:
 * Machine Learning for system identification
 * Data-driven control
 * Randomized Algorithms
+More concretely, lately I am interested in the combination of pure black-box models / data-driven control with first-principles-based models / control.
 
 Getting started
 ======
