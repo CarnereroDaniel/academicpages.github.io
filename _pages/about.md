@@ -21,7 +21,7 @@ More concretely, lately I am interested in the combination of pure black-box mod
 
 Control Information Systems Research Group
 ======
-Currently, I am working with [Professor Sakurama](https://sites.google.com/view/sakuramakazunori-en/profile) in his laboratory at the University of Osaka. For a detailed description about the vision and purpose of the laboratory, I would like to refer the interested reader to the [following page](https://sites.google.com/view/sakuramakazunori-en/research). The member list can be found in the [following link](https://www.cis.sys.es.osaka-u.ac.jp/en)
+Currently, I am working with [Professor Sakurama](https://sites.google.com/view/sakuramakazunori-en/profile) in his laboratory at the University of Osaka. For a detailed description about the vision and purpose of the laboratory, I would like to refer the interested reader to the [following page](https://sites.google.com/view/sakuramakazunori-en/research). The member list can be found in the [following link](https://www.cis.sys.es.osaka-u.ac.jp/en).
 
 About me
 ======
