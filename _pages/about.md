@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-a
+You can use the buttons above to access the different section of this page. It might be lacking some content at this moment, but I will try 
 
-A data-driven personal website
+Research Interests
 ======
-a
+My main research interests are the following:
+* Model Predictive Control
+* Machine Learning for system identification
+* Data-driven control
+* Randomized Algorithms
 
 Getting started
 ======
