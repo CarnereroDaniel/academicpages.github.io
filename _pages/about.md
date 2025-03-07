@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-You can use the buttons above to access the different section of this page. It might be feel a bit empty at this point, but I will try to keed it updated so that someday it can be regarded as a proper webpage.
+You can use the buttons above to access the different sections of this page. It might feel a bit empty at this point, but I will try to keed it updated so that someday it can be regarded as a proper webpage.
 
 Research Interests
 ======
