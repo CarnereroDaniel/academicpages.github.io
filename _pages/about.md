@@ -17,7 +17,7 @@ My main research interests are the following:
 * Data-driven control
 * Randomized algorithms
 
-More concretely, lately I am interested in the combination of pure black-box models / data-driven control with first-principles-based models / control, which corresponds to my [most recent project](https://carnererodaniel.github.io/academicpages.github.io/projects/2025-03-01-project-1).
+More concretely, recently I am interested in the combination of pure black-box models / data-driven control with first-principles-based models / control, which corresponds to my [most recent project](https://carnererodaniel.github.io/academicpages.github.io/projects/2025-03-01-project-1).
 
 Control Information Systems Research Group
 ======
