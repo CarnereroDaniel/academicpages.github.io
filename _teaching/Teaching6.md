@@ -1,5 +1,5 @@
 ---
-title: "知能システム学セミナーる"
+title: "知能システム学ゼミナール"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Teaching6
