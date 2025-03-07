@@ -1,0 +1,14 @@
+---
+title: "Probabilistically Certified Management of Data Centers Using Predictive Control"
+collection: publications
+category: manuscripts
+permalink: /publication/Paper3
+excerpt: 'A.D. Carnerero, D.R. Ramirez, T. Alamo, D. Limon'
+date: 2021-07-12
+venue: 'IEEE Transactions on Automation Science and Engineering'
+slidesurl: #
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9481170'
+citation: #
+---
+
+Data centers are facilities with large number of servers providing cloud services. The increasing number of data centers in the last years has generated environmental concern due to the large amount of energy consumed by them. This also includes some auxiliary services such as the cooling equipment which is known to be very costly. For that reason, efficient data center strategies are needed in order to provide an acceptable quality of service (QoS) and suitable temperature for every server while using the least amount of resources possible. This article presents some strategies to deal with the unified workload and temperature problem that appears in the data center. As the system is modeled as a queue and the control variables have an hybrid nature, some highly parallelizable particle-based optimization algorithms are proposed to solve the optimization problem. Numerical simulations are provided in order to illustrate the effectiveness of the strategy. These simulations also show the improvements obtained from the GPU computing. Finally, a probabilistic evaluation approach is developed in order to provide certificates on the probability of constraint satisfaction without increasing the computational burden of the online problem. Note to Practitioners—This article addresses the problem of deciding in real-time the number of active servers in a data center that is required to meet the quality of service (QoS) demands while keeping energy consumption at a minimum. The temperature set point of the cooling equipment must also be taken into account, as it is advisable to use the minimum cooling that keeps the servers running in safe conditions. The management strategy proposed is based on predictive control. In this way, the number of active servers and temperature set point will be chosen so that the future energy consumption is minimized while guaranteeing that QoS and safety demands are met under different possible operating conditions. Furthermore, the proposed management strategy can be tuned depending on the QoS that it is desirable to provide. The proposed strategy will lead to energy-consumption improvements while having guarantees on the data center performance.
