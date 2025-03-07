@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Conference4
 excerpt: '阿部瑛河， カルネレロ ダニエル， 田中大地， 畑中健志'
-date: 2024-12-17
+date: 2024-11-17
 venue: '自動制御連合講演会講演論文集 第 67 回自動制御連合講演会'
 paperurl: 'https://www.jstage.jst.go.jp/article/jacc/67/0/67_516/_article/-char/ja/'
 citation: #
